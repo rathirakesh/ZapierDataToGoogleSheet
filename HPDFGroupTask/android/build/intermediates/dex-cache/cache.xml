@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_ab3bfa020aa0ec3e645c1ef79daf77cf39184d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_fb32d109f2792da9296dfcc81eedcae90e48875c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_b1aa30aa649bdf127c9bc52a28796db1a6e09245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7cc2da8b38b01703910fad3812a82f1bbf9c24fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_3afc3ea8bfc386b809493838a50544d7a9699248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ccc6e9c98bee3811a021b56635abad0f0ceb8479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_9b2c7014de6c8af4cb03d6c7993e690bf422eaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0a4997e40a7564d13e9eeaa377ea4d8ca4b2b2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d69032a3e6af47c2b73670b8f3a05ea5afae1848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_0183674a67b2d91e705854b196ae94b6a8c768b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_3476f37c946020c7ee49aa89e54576d64c8b4b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_fceca27778dbda660fd86ef8a559f7506de9c763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b86eae77a1e09112bae81fa878e68ae3f038dd36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_b40840d0ae1d0b511fef1f4c580a6a8e4a93c55c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_5daf8cc2f33fd15d838d1f43dc5425b87769d148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_43a4003f7d8d7d43eefb0dfa2b349941a6d04a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_3983b626f68a722d4631e5d8389c9ec1e5a58e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fe805da668d53784feed43b9b0efaa713f11ee73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a148885d64662791f00c3c007085f07c9d43298d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62eec3abda6deebbcd1581c87d3ddd6ee7daf47">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.1_32cbbb1b10dfb487532c524f6c9227798802b8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\pc\Desktop\HPDFGroupTask\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_546bfc761620637763fb944c52966cbc8d4ad4dd.jar" />
+    </item>
+
+</items>
